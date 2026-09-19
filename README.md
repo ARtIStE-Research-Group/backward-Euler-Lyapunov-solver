@@ -53,8 +53,6 @@ Released under the MIT License; see `LICENSE`.
 If you use this software in research or professional work, please cite the
 corresponding software release.
 
-A permanent DOI will be assigned through Zenodo.
-
 Suggested citation format:
 
 > Marano, G. C., Datta, G., Sardone, L. (2026). *Backward-Euler Matrix
