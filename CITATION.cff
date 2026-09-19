@@ -46,5 +46,5 @@ keywords:
   - "complex-Schur Bartels-Stewart solver"
   - "positive semidefiniteness"
   - "MATLAB"
-repository-code: "https://github.com/ArtISte-Research-Group/adaptive-lyapunov-solver"
+repository-code: "https://github.com/ArtISte-Research-Group/backward-Euler-Lyapunov-solver"
 doi: "10.5281/zenodo.22842946"
