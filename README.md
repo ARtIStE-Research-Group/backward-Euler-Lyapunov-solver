@@ -42,7 +42,7 @@ plot(sol.t,sigmaX)
 - `src/`: numerical solver and Schur-based Lyapunov routines.
 - `examples/`: constant- and time-varying-state-matrix examples.
 - `tests/`: regression and validation tests.
-- `manual/Adaptive_BE_Lyapunov_Manual_EN_v1.0.pdf`: theory and user manual (English).
+- `manual/Backward_Euler_Matrix_Lyapunov_eq__Solver_English_Manual.pdf`: theory and user manual (English).
 
 ## License
 
