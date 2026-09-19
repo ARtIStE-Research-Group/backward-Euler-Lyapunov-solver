@@ -12,7 +12,7 @@ require MATLAB's Control System Toolbox.
 ## Quick start
 
 ```matlab
-cd Adaptive_BE_Lyapunov_v1.0.0
+cd backward-Euler-Lyapunov-solver
 startup
 run_tests
 example_01_sdof_modulated
