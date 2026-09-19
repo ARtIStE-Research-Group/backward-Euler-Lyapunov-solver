@@ -1,7 +1,7 @@
-If you use this software in research or professional work, please cite the corresponding software release.
-
-Suggested citation format:
-Marano, G. C. , Datta, G., Sardone, L. (2026).
-Backward-Euler Matrix Lyapunov eq. Solver.
-Software repository, ARTISTE Research Group, Politecnico di Torino.
-DOI: 10.5281/zenodo.22842946
+cff-version: 1.2.0
+message: >-
+  If you use this software in research or professional work, please cite
+  the corresponding software release: Marano, G. C., Datta, G., Sardone, L.
+  (2026). Backward-Euler Matrix Lyapunov eq. Solver. Software repository,
+  ARTISTE Research Group, Politecnico di Torino. DOI:
+  10.5281/zenodo.22842946
