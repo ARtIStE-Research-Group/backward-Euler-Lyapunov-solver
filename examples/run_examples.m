@@ -1,0 +1,5 @@
+%RUN_EXAMPLES Run all supplied examples.
+example_01_sdof_modulated;
+example_02_time_varying_stiffness;
+example_03_stationary_limit;
+example_04_shear_building;
