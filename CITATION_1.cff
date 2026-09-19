@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Adaptive Backward-Euler Matrix Lyapunov Equation Solver"
+abstract: >-
+  A research MATLAB package for time-domain covariance analysis of linear
+  time-invariant and time-varying structural systems subjected to
+  non-stationary stochastic excitation, including systems written in
+  augmented state space with input-generating filters. Response
+  second-moment statistics are obtained by integrating the non-stationary
+  differential Lyapunov equation directly in matrix form, using a
+  variable-step backward-Euler method in which every implicit update is
+  recast as an algebraic Lyapunov equation and solved by a reusable
+  complex-Schur Bartels-Stewart factorization (base MATLAB, no Control
+  System Toolbox required). Temporal accuracy is controlled by step
+  doubling with a proportional or proportional-integral step-size
+  controller. The accepted covariance is symmetric and, under standard
+  conditions, provably positive semidefinite. The package returns
+  covariance, variance, interstorey-drift, velocity, and acceleration
+  statistics, and is validated against an analytical scalar solution, the
+  stationary algebraic Lyapunov limit, symmetry/positive-semidefiniteness
+  checks, and tolerance-monotonicity tests.
+type: software
+version: "1.0.0"
+date-released: "2026-09-19"
+license: MIT
+authors:
+  - family-names: "Marano"
+    given-names: "Giuseppe Carlo"
+    affiliation: "Dept. of Structural, Geotechnical and Building Engineering (DISEG), Politecnico di Torino, Turin, Italy"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Datta"
+    given-names: "Gaurav"
+    affiliation: "Dept. of Structural, Geotechnical and Building Engineering (DISEG), Politecnico di Torino, Turin, Italy"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Sardone"
+    given-names: "Laura"
+    affiliation: "Dept. of Structural, Geotechnical and Building Engineering (DISEG), Politecnico di Torino, Turin, Italy"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+keywords:
+  - "non-stationary random vibration"
+  - "differential Lyapunov equation"
+  - "covariance analysis"
+  - "backward Euler"
+  - "adaptive time stepping"
+  - "step doubling"
+  - "complex-Schur Bartels-Stewart solver"
+  - "positive semidefiniteness"
+  - "MATLAB"
+# repository-code: "https://github.com/<org>/<repo>"
+# doi: "10.5281/zenodo.XXXXXXX"   # paste the Zenodo concept DOI once minted
